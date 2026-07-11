@@ -49,6 +49,6 @@ Building a predictive analytics dashboard that combines machine learning with fo
 ## Contact
 
 GitHub: https://github.com/su-zixuan
-LinkedIn: *(add your LinkedIn here)*
+LinkedIn: https://www.linkedin.com/in/zixuan-su-a45b35260/
 
 Thanks for stopping by.
