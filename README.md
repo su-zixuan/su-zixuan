@@ -38,6 +38,7 @@ Tools
 **World Cup 2026 Dashboard**
 
 Building a predictive analytics dashboard that combines machine learning with football statistics to forecast match outcomes and visualize tournament data.
+![alt text](https://github.com/su-zixuan/su-zixuan/blob/main/img1_worldCup_2026_Predictions.png "screenshot_worldCup_2026_Predictions")
 
 ## Goals
 
